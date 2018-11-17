@@ -1,0 +1,2 @@
+<j-like bind:like="onLike" like="{{classic.like_status}}" count="{{classic.fav_nums}}" />
+<j-movie img="{{classic.image}}" content="{{classic.content}}"/>

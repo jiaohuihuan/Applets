@@ -1,0 +1,5 @@
+page{
+  /* 字体粗细只适用于ios  */
+  font-family: "PingFangSC-Thin";  
+  font-size: 32rpx;
+}
